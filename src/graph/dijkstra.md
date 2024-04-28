@@ -175,7 +175,7 @@ vector<int> restore_path(int s, int t, vector<int> const& p) {
 * [Codeforces - Dynamic Shortest Path](http://codeforces.com/problemset/problem/843/D)
 * [UVA 11813 - Shopping](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2913)
 * [UVA 11833 - Route Change](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=226&page=show_problem&problem=2933)
-* [SPOJ - Easy Dijkstra Problem](http://www.spoj.com/problems/EZDIJKST/en/)
+* [SPOJ - Easy Dijkstra Problem](http://www.spoj.com/problems/EZDIJKST/en/) [Difficulty:Easy]
 * [LA - 2819 - Cave Raider](https://vjudge.net/problem/UVALive-2819)
 * [UVA 12144 - Almost Shortest Path](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3296)
 * [UVA 12047 - Highest Paid Toll](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3198)
